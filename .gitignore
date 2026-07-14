@@ -1,0 +1,5 @@
+dist/
+tmp/
+*.zip
+*.tar.gz
+hashes.sha256

@@ -1,0 +1,9 @@
+SPDX-License-Identifier: AGPL-3.0-or-later
+
+The repository metadata and verification scripts are licensed under the GNU
+Affero General Public License, version 3 or (at your option) any later version.
+The complete license text is available at
+https://www.gnu.org/licenses/agpl-3.0.txt.
+
+Release archives retain the license and third-party notices shipped inside each
+artifact. Those notices govern their corresponding files.
